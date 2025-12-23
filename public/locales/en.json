@@ -1,0 +1,28 @@
+{
+    "hero": {
+        "title": "Hi, I'm",
+        "name": "Jesú"
+    },
+    "whoami": {
+        "title": "whoami",
+        "intro1": "I'm a System Engineering student of the tenth academic cycle at",
+        "university": "University of Lima",
+        "intro2": "I've also specialized in software development using web and cross-platform technologies, along with the management of cloud services on AWS, Azure, and Oracle, as well as DevOps tools to automate CI/CD workflows."
+    },
+    "projects": {
+        "title": "Projects",
+        "description": "Take a look to projects I've worked on!"
+    },
+    "skills": {
+        "title": "Skills",
+        "description": "Here are some of the skills I've acquired over the years."
+    },
+    "contact": {
+        "title": "Contact",
+        "description": "You can reach me through the following channels:",
+        "email": "Email",
+        "phone": "Phone",
+        "linkedin": "LinkedIn",
+        "github": "GitHub"
+    }
+}

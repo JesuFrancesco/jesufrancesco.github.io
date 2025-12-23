@@ -1,0 +1,28 @@
+{
+    "hero": {
+        "title": "Hola, soy",
+        "name": "Jesú"
+    },
+    "whoami": {
+        "title": "whoami (quién soy)",
+        "intro1": "Soy un estudiante de Ingeniería de Sistemas de la",
+        "university": "Universidad de Lima",
+        "intro2": "También me he especializado en el desarrollo de software en los ámbitos web y multiplataforma en conjunto al manejo de servicios cloud (en AWS, Azure y Oracle); así como con herramientas DevOps para la automatización de flujos CI/CD."
+    },
+    "projects": {
+        "title": "Proyectos",
+        "description": "¡Echa un vistazo a los proyectos en los que he trabajado!"
+    },
+    "skills": {
+        "title": "Habilidades",
+        "description": "Estas son algunas de las habilidades que he adquirido a lo largo de los años."
+    },
+    "contact": {
+        "title": "Contacto",
+        "description": "Puedes contactarme a través de los siguientes canales:",
+        "email": "Correo electrónico",
+        "phone": "Teléfono",
+        "linkedin": "LinkedIn",
+        "github": "GitHub"
+    }
+}
