@@ -14,6 +14,6 @@ i18n
       escapeValue: false,
     },
     backend: {
-      loadPath: `/my-portfolio/locales/{{lng}}.json`,
+      loadPath: `/locales/{{lng}}.json`,
     },
   });
